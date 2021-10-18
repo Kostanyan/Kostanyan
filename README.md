@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kostanyan763@gmail.com - gmail
-                      https://www.instagram.com/hayk_kostanyan11/ - instagram
+                      https://www.instagram.com/hayk_kostanyan_11/ - instagram
 
 <!---
 Kostanyan/Kostanyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
