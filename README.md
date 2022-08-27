@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kostanyan
 - 👀 I’m interested in programing and modeling
-- 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning architecture and modeling
+- 💞️ instagram | https://www.instagram.com/hayk_kostanyan_11/
 - 📫 How to reach me kostanyan753@gmail.com - gmail
                       https://www.instagram.com/hayk_kostanyan_11/ - instagram
 
