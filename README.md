@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning architecture and modeling
 - 💞️ instagram | https://www.instagram.com/hayk_kostanyan_11/
 - 📫 How to reach me kostanyan753@gmail.com - gmail
-                      https://www.instagram.com/hayk_kostanyan_11/ - instagram
+                      
 
 <!---
 Kostanyan/Kostanyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
